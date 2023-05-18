@@ -7,7 +7,7 @@
 
 show lines of players viewangles if anyone needs
 
-[![Download Latest](https://img.shields.io/github/downloads/titaniummachine1/View_Angles/total.svg?style=for-the-badge&logo=download&label=Download%20Latest)](https://github.com/titaniummachine1/View_Angles/releases/latest/download/View_Angles)
+[![Download Latest](https://img.shields.io/github/downloads/titaniummachine1/View_Angles/total.svg?style=for-the-badge&logo=download&label=Download%20Latest)](https://github.com/titaniummachine1/View_Angles/releases/latest/download/View_Angles.lua)
 
 ![image](https://github.com/titaniummachine1/View_Angles/assets/78664175/1eff3a9e-4ab5-45ee-9673-d47e40b5099e)
 
